@@ -185,4 +185,4 @@ COMMIT;
 
 🎥 **Lecture 10**: [Press Here](https://youtube.com/watch?v=123456789)
 
-📚 **Playlist**: [Press Here](https://youtube.com/playlist?list=PLabcde12345)
+📚 **Playlist**: [Press Here](https://youtube.com/playlist?list=PLAooZ0tC0m8TBniehppTtfPN7aY4ztB0M&si=Q_3l5Whm12IGZu38)
